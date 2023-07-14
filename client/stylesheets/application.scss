@@ -1,0 +1,9 @@
+/**
+  * This is the main entry point for the application styles.
+  * All stylesheets should be imported here to ensure proper ordering and cascading
+  * Use variables defined in _variables.scss for consistency
+*/
+
+@import 'styles';
+@import 'variables';
+@import '/node_modules/react-datepicker/dist/react-datepicker.css'
